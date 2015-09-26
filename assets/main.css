@@ -1,0 +1,29 @@
+body {
+  margin: 0 ;
+}
+
+#search-bar {
+  width: 500px;
+  height: 40px;
+  display: block;
+  margin: 250px auto 0;
+  text-align: center;
+}
+
+#search-drop-down {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 500px;
+}
+
+#search-drop-down ul {
+  height: 150px;
+  overflow: auto;
+  padding: 0;
+}
+
+#search-drop-down li {
+  list-style: none;
+  text-align: left;
+}
